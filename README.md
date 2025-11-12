@@ -4,7 +4,9 @@ Personal Portfolio
 📍 Shawboro, North Carolina  
 📧 jensawyer711@gmail.com • 📞 (252) 312-4791  
 
----
+-## 🌟 Personal Statement  
+I am a dedicated mathematics educator and researcher with a lifelong commitment to clarity, accessibility, and student empowerment...
+--
 
 ## 🎓 Education  
 **Elizabeth City State University**  
