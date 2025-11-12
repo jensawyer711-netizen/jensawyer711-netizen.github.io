@@ -4,6 +4,10 @@ Personal Portfolio
 📍 Shawboro, North Carolina  
 📧 jensawyer711@gmail.com • 📞 (252) 312-4791  
 
+<p align="center">
+  <img src="headshot.jpg" alt="Jennifer Sawyer" width="250"/>
+</p>
+
 ## 🌟 Personal Statement  
 I am a dedicated mathematics educator and researcher with a lifelong commitment to clarity, accessibility, and student empowerment. My academic journey — from graduating valedictorian at Bowling Green State University to pursuing a Master of Science in Applied Mathematics at Elizabeth City State University — reflects both persistence and passion for learning. Alongside my teaching, I bring experience as a published author, conference presenter, and fellowship recipient, translating complex ideas into meaningful, real-world applications. Beyond the classroom, I lead fitness instruction at the YMCA, blending discipline and encouragement to help others achieve their goals. Whether mentoring students, designing resources, or presenting research, I strive to create inclusive, collaborative environments where knowledge becomes both practical and inspiring.
 
