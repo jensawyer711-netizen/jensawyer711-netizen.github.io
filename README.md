@@ -11,7 +11,7 @@ I am a dedicated mathematics educator and researcher with a lifelong commitment 
 
 ## 🎓 Education  
 **Elizabeth City State University**  
-Master of Science in Applied Mathematics — GPA: 4.00/4.00 (Expected May 2025)  
+Master of Science in Applied Mathematics — GPA: 4.00/4.00 (May 2025)  
 
 **Bowling Green State University**  
 Bachelor of Science in Education — Elementary & Secondary Mathematics — GPA: 4.00/4.00 (1991)  
