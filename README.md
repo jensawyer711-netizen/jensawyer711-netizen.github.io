@@ -75,4 +75,4 @@ AAAS ERN • TRB • CSGS (3MT) • NCCGS • SIAM • MATHFest • PYCON • NV
 
 ## 🔗 Connect  
 - [GitHub](https://github.com/jensawyer711-netizen)  
-- [LinkedIn](https://linkedin.com/in/jensawyer711) *(optional)*  
+- [LinkedIn](https://linkedin.com/in/jensawyer711)  
